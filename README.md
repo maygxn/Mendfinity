@@ -8,8 +8,8 @@ Digital portal designed for patients to discover targeted exercise plans, track 
 2. Patient should be able to mark exercises as favorites and view them in dedicated section.
 3. Patient should be able to log daily health and exercise activities in their personal journal.
 
-## Wireframe
-A SCREENSHOT of your wireframe
+## Wireframe of Homepage
+![Homepage](image.png)
 
 ## React Tree Diagram 
 ![Tree](./pictures/treeeeeeee.png)
@@ -21,7 +21,7 @@ A SCREENSHOT of your wireframe
 ![Schema](./pictures/image.png)
 
 ## New Technologies
-JSON Web Tokens (JWT) to handle user authentification.
+Flask Sessions for user login/authentification.
 
 ## Stretch Goals
 1. Make physical therapists users too.
